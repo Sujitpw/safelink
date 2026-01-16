@@ -50,13 +50,7 @@ The goal of SafeLink is to create a compact and portable safety device that allo
 
 ## 📸 Hardware Prototype Image
 
-Below is the actual hardware prototype of the SafeLink system used during testing and development:
-
-![SafeLink Hardware Prototype](images/safelink_prototype.jpg)
-
-> 📌 **Note:**  
-> Create a folder named `images/` in the repository and place the image inside it with the name  
-> `safelink_prototype.jpg`.
+![WhatsApp Image 2026-01-04 at 5 33 44 PM](https://github.com/user-attachments/assets/bb495897-5bdc-4b67-86cb-a1153a0a7b58)
 
 ---
 
